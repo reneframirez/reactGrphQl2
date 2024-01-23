@@ -1,0 +1,23 @@
+{
+  "name": "cmrgraphqlcurso",
+  "version": "1.0.0",
+  "description": "curso",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "Rene",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "apollo-server": "^3.12.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.3.1",
+    "graphql": "^16.8.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.0"
+  }
+}

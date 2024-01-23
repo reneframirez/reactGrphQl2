@@ -1,0 +1,58 @@
+# Node.js
+node_modules/
+
+# IDE
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build files
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Compiled binaries
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript
+*.tsbuildinfo
+
+# Yarn
+yarn-error.log
+yarn.lock
+
+# Editor directories and files
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# React build output
+/build/
+
+# GraphQL generated files
+graphql.schema.json
